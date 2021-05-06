@@ -1,0 +1,8 @@
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Controller\YatzyController.php:45	The method startgame() has a Cyclomatic Complexity of 41. The configured cyclomatic complexity threshold is 10.
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Controller\YatzyController.php:45	The method startgame() has an NPath complexity of 65536. The configured NPath complexity threshold is 200.
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Controller\YatzyController.php:45	The method startgame() has 136 lines of code. Current threshold is set to 100. Avoid really long methods.
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Controller\YatzyController.php:100	Avoid unused local variables such as '$localcounter'.
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Controller\YatzyController.php:101	Avoid unused local variables such as '$localscore'.
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Controller\YatzyController.php:174	Avoid unused local variables such as '$throws'.
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Kernel.php:14	Avoid assigning values to variables in if clauses and the like (line '22', column '27').
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\framework\app\src\Kernel.php:27	Avoid assigning values to variables in if clauses and the like (line '34', column '27').
